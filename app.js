@@ -9,7 +9,3 @@ const server = http.createServer(app);
 const io = socket(server);
 
 const chess = new Chess();
-
-
-// new commit
-// another one
